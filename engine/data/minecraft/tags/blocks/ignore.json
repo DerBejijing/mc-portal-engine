@@ -1,0 +1,18 @@
+{
+  "replace": "false",
+  "values": [
+    "#minecraft:slabs",
+    "#minecraft:wooden_buttons",
+    "#minecraft:plants",
+    "#minecraft:wooden_trapdoors",
+    "#minecraft:wooden_doors",
+    "#minecraft:wooden_pressure_plates",
+    "#minecraft:wooden_fences",
+    "#minecraft:fence_gates",
+    "#minecraft:fences",
+    "#minecraft:air",
+    "#minecraft:electric",
+    "#minecraft:signs",
+    "minecraft:iron_bars"
+  ]
+}

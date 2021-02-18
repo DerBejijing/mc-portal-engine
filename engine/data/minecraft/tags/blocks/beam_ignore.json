@@ -1,0 +1,16 @@
+{
+  "replace": "false",
+  "values": [
+    "#minecraft:air",
+    "minecraft:redstone_lamp",
+    "minecraft:redstone_wire",
+    "minecraft:repeater",
+    "minecraft:comparator",
+    "#minecraft:plants",
+    "minecraft:redstone_torch",
+    "minecraft:redstone_wall_torch",
+    "minecraft:iron_trapdoor",
+    "minecraft:iron_bars",
+    "minecraft:note_block"
+  ]
+}

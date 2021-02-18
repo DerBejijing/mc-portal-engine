@@ -1,0 +1,10 @@
+{
+  "replace": "false",
+  "values": [
+    "minecraft:redstone_wire",
+    "minecraft:repeater",
+    "minecraft:comparator",
+    "minecraft:tripwire_hook",
+    "minecraft:daylight_detector"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "replace":"false",
+  "values": [
+    "minecraft:gray_concrete",
+    "minecraft:white_concrete",
+    "minecraft:polished_andesite",
+    "minecraft:orange_terracotta",
+    "minecraft:white_terracotta"
+  ]
+}
