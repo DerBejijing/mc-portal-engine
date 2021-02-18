@@ -49,7 +49,7 @@ The same goes for the gels.
 
   - doors: when the base block is powered it will open. The normal chamber door can only be placed in two directions. I am working on this. Destroy by breaking the base block
 
-**The portalgun**
+**The portalgun**  
 The portal color can be switched by pressing `f`. When fired to a wall that follows this rule:  
   - there is an at least 2x1 area
   - lower block is white terracotta
@@ -58,9 +58,9 @@ The portal color can be switched by pressing `f`. When fired to a wall that foll
 A portal will be placed. Place a second one and walk through it. Easy.  
 Until now, it does not interact with other game objects.
 
-**debug mode**
+**debug mode**  
 `/trigger debug` will activate the debug mode so particles by e.g the turret are shown. Will be filled with more use later on.  
-
-
-
+  
+  
+  
 Funfact: Now the project has a total of `1352` lines xD
