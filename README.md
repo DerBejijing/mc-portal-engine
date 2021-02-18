@@ -1,9 +1,9 @@
 # mc-portal-engine
 Portal 2 as a datapack in minecraft
 
-This is my current project: creating Portal (2) in vanilla minecraft. You will need the resource-pack to use it.  
+This is my current project: creating Portal (2) in vanilla minecraft. You will need the resource-pack [here](https://github.com/DerBejijing/mc-portal-resources) to use it.  
 It may seen like a very long readme, but that is just because it is very detailed. The most is just unnecessary stuff.  
-*THIS IS NOT MADE FOR SURVIVAL PROJECTS! The purpose is to create own testchambers and it does not make sense to use it for something else!*
+*THIS IS NOT MADE FOR SURVIVAL PROJECTS! The purpose is to create own testchambers and it does not make sense to use it for something else!*  
 
 **Rules**  
 You are allowed to:
@@ -59,4 +59,8 @@ A portal will be placed. Place a second one and walk through it. Easy.
 Until now, it does not interact with other game objects.
 
 **debug mode**
-`/trigger debug` will activate the debug mode so particles by e.g the turret are shown. Will be filled with more use later on.
+`/trigger debug` will activate the debug mode so particles by e.g the turret are shown. Will be filled with more use later on.  
+
+
+
+Funfact: Now the project has a total of `1352` lines xD
