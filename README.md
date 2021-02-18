@@ -40,7 +40,7 @@ The same goes for the gels.
   - thermal redirection cube: will redirect a laser that hits it. When beeing placed (wether by the portalgun or by hand) it will be faced to the direction the player was facing. Only supports *north, east, south, west*. Can be picked up by rightclicking with the portalgun. Destroy by breaking
   - laser sensor: Will emit power if a laser beam hits it. When beeing played it points towards the player. Destroy by breaking
   - aerial faith plate: once a player walks on it, it will launch the player to the direction it was placed in. Destroy by breaking
-  - hardlight bridge: place on a wall. Cannot be powered by redstone yet, because I was to lazy to do so. Will do it in the next days. Instead the block behind it has to be granite. I know, stupid, but I'll fix it.
+  - hardlight bridge: place on a wall. Cannot be powered by redstone yet, because I was to lazy to do so. Will do it in the next days. Instead the block behind it has to be granite. I know, stupid, but I'll fix it. It can only be stopped by gray concrete yet. I will change it very soon.
 
   - turret: will look towards the player when placed. **Not functional yet**! It will cast rays to try to find a player. **Warning**: on weaker computers this may decrease performance a lot when multiple turrets are used! The rays can be visualized by enabling the debug mode (`/trigger debug`)
 
