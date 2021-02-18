@@ -3,6 +3,7 @@ Portal 2 as a datapack in minecraft
 
 This is my current project: creating Portal (2) in vanilla minecraft. You will need the resource-pack to use it.  
 It may seen like a very long readme, but that is just because it is very detailed. The most is just unnecessary stuff.  
+*THIS IS NOT MADE FOR SURVIVAL PROJECTS! The purpose is to create own testchambers and it does not make sense to use it for something else!*
 
 **Rules**  
 You are allowed to:
