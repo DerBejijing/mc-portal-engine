@@ -1,6 +1,10 @@
 # mc-portal-engine
 Portal 2 as a datapack in minecraft
 
+**Currently everything is being renewed, so for some time you won't see any updates here!  
+Certain bugs and garbage are still in the code and will NOT be fixed until the new version is published!**  
+
+
 This is my current project: creating Portal (2) in vanilla minecraft. You will need the resource-pack [here](https://github.com/DerBejijing/mc-portal-resources) to use it.  
 It may seen like a very long readme, but that is just because it is very detailed. The most is just unnecessary stuff.  
 *THIS IS NOT MADE FOR SURVIVAL PROJECTS! The purpose is to create own testchambers and it does not make sense to use it for something else!*  
