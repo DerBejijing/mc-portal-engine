@@ -11,17 +11,6 @@ This is my current project: creating Portal (2) in vanilla minecraft. You will n
 It may seen like a very long readme, but that is just because it is very detailed. The most is just unnecessary stuff.  
 *THIS IS NOT MADE FOR SURVIVAL PROJECTS! The purpose is to create own testchambers and it does not make sense to use it for something else!*  
 
-**Rules**  
-You are allowed to:
-  - modify the code
-  - add your own stuff
-  - showcase it to others
-
-However, you are not allowed to
-  - use it for commercial purposes (eg. selling it), even if you modified it
-  - call it your own
-
-Please always link me as the creator :)
 
 **How to install**  
 You first need a minecraft 1.16.x world you would like to use it in.
